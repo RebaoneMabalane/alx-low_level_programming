@@ -1,10 +1,11 @@
 #include "main.h"
 
 /**
- * main - check the code
- * Return: Always 0.
+ * string_toupper - cahnges lowercase to uppercase
+ * @n: pointer
+ * Return: char
  */
-char *string_tropper(char *n)
+char *string_toupper(char *n)
 {
 	int i;
 
